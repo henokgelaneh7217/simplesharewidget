@@ -1,6 +1,5 @@
 # simplesharewidget
-=== Game Reviews ===
-Contributors: henokgelaneh7217
+Contributors: henokgelaneh7217'
 Donate link: gelanehhenok.wordpress.com
 Tags: social, sharing, widget
 Requires at least: 3.0.1
