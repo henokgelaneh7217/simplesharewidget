@@ -8,7 +8,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Simple Share Widget
- * Plugin URI:        simplesharewidget.com
+ * Plugin URI:        https://github.com/henokgelaneh7217/simplesharewidget
  * Description:       Simple Widget for Social Media Share Buttons
  * Version:           1.0.0
  * Author:            Henok Gelaneh
